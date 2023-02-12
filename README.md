@@ -1,4 +1,4 @@
-# DJangoを使った TODOアプリを作ろう
+# djangoを使った TODOアプリを作ろう
 
 簡単な Todo を作成するdjangoアプリになります。
 
